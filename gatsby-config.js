@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sushi Code`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alessandro Buonerba`,
+      summary: `who lives and works in London and loves to write spaghetti code.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://dieman89.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Dieman_`,
     },
   },
   plugins: [
